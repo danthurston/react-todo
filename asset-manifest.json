@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/danthurston/react-todo/static/css/main.b01b5dc6.chunk.css",
-    "main.js": "/danthurston/react-todo/static/js/main.53414b32.chunk.js",
-    "main.js.map": "/danthurston/react-todo/static/js/main.53414b32.chunk.js.map",
+    "main.js": "/danthurston/react-todo/static/js/main.6ffa5e41.chunk.js",
+    "main.js.map": "/danthurston/react-todo/static/js/main.6ffa5e41.chunk.js.map",
     "runtime-main.js": "/danthurston/react-todo/static/js/runtime-main.b8188d67.js",
     "runtime-main.js.map": "/danthurston/react-todo/static/js/runtime-main.b8188d67.js.map",
-    "static/js/2.749e008b.chunk.js": "/danthurston/react-todo/static/js/2.749e008b.chunk.js",
-    "static/js/2.749e008b.chunk.js.map": "/danthurston/react-todo/static/js/2.749e008b.chunk.js.map",
+    "static/js/2.cb7eb007.chunk.js": "/danthurston/react-todo/static/js/2.cb7eb007.chunk.js",
+    "static/js/2.cb7eb007.chunk.js.map": "/danthurston/react-todo/static/js/2.cb7eb007.chunk.js.map",
     "index.html": "/danthurston/react-todo/index.html",
     "static/css/main.b01b5dc6.chunk.css.map": "/danthurston/react-todo/static/css/main.b01b5dc6.chunk.css.map",
-    "static/js/2.749e008b.chunk.js.LICENSE.txt": "/danthurston/react-todo/static/js/2.749e008b.chunk.js.LICENSE.txt"
+    "static/js/2.cb7eb007.chunk.js.LICENSE.txt": "/danthurston/react-todo/static/js/2.cb7eb007.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b8188d67.js",
-    "static/js/2.749e008b.chunk.js",
+    "static/js/2.cb7eb007.chunk.js",
     "static/css/main.b01b5dc6.chunk.css",
-    "static/js/main.53414b32.chunk.js"
+    "static/js/main.6ffa5e41.chunk.js"
   ]
 }
